@@ -1,0 +1,178 @@
+# 🌱 EcoAnimal - Sustentabilidade Animal
+
+Um site moderno e responsivo desenvolvido para conscientização sobre sustentabilidade animal, preservação da biodiversidade e proteção dos ecossistemas.
+
+![Banner](https://images.unsplash.com/photo-1444464666168-49d633b86797?w=1200)
+
+---
+
+## 📖 Sobre o Projeto
+
+O EcoAnimal foi criado com o objetivo de informar e conscientizar a população sobre a importância da preservação da fauna e dos habitats naturais.
+
+A plataforma apresenta:
+
+- Informações sobre sustentabilidade animal
+- Ações de preservação ambiental
+- Impactos positivos da conservação
+- Galeria de imagens
+- Formulário de contato
+- Design moderno e responsivo
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Design Responsivo
+
+---
+
+## 📂 Estrutura do Projeto
+
+```text
+ecoanimal/
+│
+├── index.html
+├── style.css
+├── README.md
+│
+└── images/
+    ├── banner.jpg
+    ├── fauna.jpg
+    └── preservacao.jpg
+```
+
+---
+
+## 🎨 Funcionalidades
+
+### Página Inicial
+Apresentação da proposta do projeto com banner principal.
+
+### Sobre
+Explicação sobre sustentabilidade animal e sua importância.
+
+### Ações Sustentáveis
+Exemplos de ações que ajudam na preservação da biodiversidade.
+
+### Impactos Positivos
+Indicadores visuais sobre os benefícios da conservação.
+
+### Galeria
+Exibição de imagens relacionadas à fauna e ao meio ambiente.
+
+### Contato
+Formulário para envio de mensagens.
+
+---
+
+## 📱 Responsividade
+
+O site foi desenvolvido para funcionar em:
+
+- Computadores
+- Tablets
+- Smartphones
+
+---
+
+## 🌎 Sustentabilidade Animal
+
+A sustentabilidade animal envolve práticas que garantem a sobrevivência das espécies e a manutenção dos ecossistemas naturais para as futuras gerações.
+
+Entre os principais desafios estão:
+
+- Desmatamento
+- Caça ilegal
+- Tráfico de animais
+- Poluição ambiental
+- Mudanças climáticas
+
+---
+
+## 📸 Créditos das Imagens
+
+Imagens fornecidas por:
+
+- Unsplash
+- Fotógrafos parceiros da comunidade Open Source
+
+---
+
+## 🔧 Como Executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/ecoanimal.git
+```
+
+2. Entre na pasta:
+
+```bash
+cd ecoanimal
+```
+
+3. Abra o arquivo:
+
+```bash
+index.html
+```
+
+Ou utilize a extensão Live Server do VS Code.
+
+---
+
+## 📌 Melhorias Futuras
+
+- Modo escuro
+- Blog sobre sustentabilidade
+- Sistema de notícias ambientais
+- Integração com API de clima
+- Área administrativa
+- Banco de dados para mensagens
+
+---
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas.
+
+1. Faça um Fork
+2. Crie uma Branch
+
+```bash
+git checkout -b minha-feature
+```
+
+3. Commit
+
+```bash
+git commit -m "Nova funcionalidade"
+```
+
+4. Push
+
+```bash
+git push origin minha-feature
+```
+
+5. Abra um Pull Request
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a licença MIT.
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido para fins educacionais e conscientização ambiental.
+
+**EcoAnimal © 2026**
