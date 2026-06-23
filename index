@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sustentabilidade Animal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <h1>EcoAnimal</h1>
+            <ul>
+                <li><a href="#inicio">Início</a></li>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#acoes">Ações</a></li>
+                <li><a href="#impactos">Impactos</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="inicio" class="hero">
+        <div class="hero-content">
+            <h2>Protegendo os Animais para um Futuro Sustentável</h2>
+            <p>
+                A sustentabilidade animal é fundamental para a preservação dos ecossistemas,
+                da biodiversidade e do equilíbrio ambiental.
+            </p>
+            <a href="#sobre" class="btn">Saiba Mais</a>
+        </div>
+    </section>
+
+    <section id="sobre" class="container">
+        <h2>Sobre a Sustentabilidade Animal</h2>
+
+        <div class="grid">
+            <img src="https://images.unsplash.com/photo-1546182990-dffeafbe841d?w=800"
+                 alt="Animal na natureza">
+
+            <div>
+                <p>
+                    A sustentabilidade animal busca garantir que espécies animais
+                    possam viver e se reproduzir em ambientes saudáveis,
+                    mantendo o equilíbrio natural dos ecossistemas.
+                </p>
+
+                <p>
+                    A destruição de habitats, a caça ilegal e a poluição
+                    representam ameaças significativas para diversas espécies.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section id="acoes" class="cards-section">
+        <h2>Ações Sustentáveis</h2>
+
+        <div class="cards">
+
+            <div class="card">
+                <h3>🌳 Preservação de Habitats</h3>
+                <p>
+                    Proteger florestas, rios e áreas naturais para garantir
+                    ambientes seguros para a fauna.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>🦜 Proteção da Fauna</h3>
+                <p>
+                    Combater o tráfico de animais silvestres e promover
+                    programas de reabilitação.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>♻ Educação Ambiental</h3>
+                <p>
+                    Conscientizar a população sobre a importância da biodiversidade.
+                </p>
+            </div>
+
+        </div>
+    </section>
+
+    <section id="impactos" class="container">
+        <h2>Impactos Positivos</h2>
+
+        <div class="impactos">
+
+            <div class="impacto">
+                <h3>85%</h3>
+                <p>dos ecossistemas dependem diretamente da biodiversidade.</p>
+            </div>
+
+            <div class="impacto">
+                <h3>+500</h3>
+                <p>espécies protegidas por programas ambientais no Brasil.</p>
+            </div>
+
+            <div class="impacto">
+                <h3>100%</h3>
+                <p>de benefício para futuras gerações através da conservação.</p>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="gallery">
+        <h2>Galeria</h2>
+
+        <div class="gallery-grid">
+            <img src="https://images.unsplash.com/photo-1474511320723-9a56873867b5?w=800" alt="">
+            <img src="https://images.unsplash.com/photo-1501706362039-c6e80948f11b?w=800" alt="">
+            <img src="https://images.unsplash.com/photo-1456926631375-92c8ce872def?w=800" alt="">
+        </div>
+    </section>
+
+    <section id="contato" class="contact">
+        <h2>Entre em Contato</h2>
+
+        <form>
+            <input type="text" placeholder="Nome" required>
+            <input type="email" placeholder="E-mail" required>
+            <textarea rows="5" placeholder="Mensagem"></textarea>
+            <button type="submit">Enviar</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>© 2026 EcoAnimal - Sustentabilidade Animal. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
